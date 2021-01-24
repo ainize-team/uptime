@@ -8,6 +8,8 @@ sites:
     url: https://ainetwork.ai
   - name: Ainize
     url: https://ainize.ai
+  - name: aFan
+    url: https://afan.ai
   - name: Common Computer
     url: https://comcom.ai
 

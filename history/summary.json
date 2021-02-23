@@ -25,7 +25,7 @@
     "url": "https://ainize.ai",
     "icon": "https://favicons.githubusercontent.com/ainize.ai",
     "slug": "ainize",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 499,
     "timeMonth": 724,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 0
+    }
   },
   {
     "name": "aFan (JP)",

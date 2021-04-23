@@ -8,6 +8,10 @@ sites:
     url: https://ainetwork.ai
   - name: Ainize
     url: https://ainize.ai
+  - name: TabTab (KubeCon)
+    url: https://kubecon-tabtab-ainize-team.endpoint.ainize.ai
+  - name: TabTab (Usecase)
+    url: https://usecase-tabtab-ainize-team.endpoint.ainize.ai
   - name: aFan (JP)
     url: https://afan.ai/ja
   - name: Common Computer

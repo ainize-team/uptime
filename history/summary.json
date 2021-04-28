@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 994,
-    "timeDay": 2413,
-    "timeWeek": 1395,
-    "timeMonth": 1304,
-    "timeYear": 994,
+    "time": 990,
+    "timeDay": 573,
+    "timeWeek": 1136,
+    "timeMonth": 1305,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2021-02-13": 7,
       "2021-01-29": 18
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 592,
-    "timeDay": 426,
-    "timeWeek": 555,
-    "timeMonth": 500,
-    "timeYear": 592,
+    "time": 596,
+    "timeDay": 910,
+    "timeWeek": 586,
+    "timeMonth": 503,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2021-02-23": 12
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1044,
-    "timeDay": 988,
-    "timeWeek": 1044,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "time": 1003,
+    "timeDay": 799,
+    "timeWeek": 1003,
+    "timeMonth": 1003,
+    "timeYear": 1003,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 872,
-    "timeDay": 829,
-    "timeWeek": 872,
-    "timeMonth": 872,
-    "timeYear": 872,
+    "time": 817,
+    "timeDay": 543,
+    "timeWeek": 817,
+    "timeMonth": 817,
+    "timeYear": 817,
     "dailyMinutesDown": {}
   },
   {
@@ -82,18 +82,19 @@
     "icon": "https://favicons.githubusercontent.com/afan.ai",
     "slug": "a-fan-jp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 306,
-    "timeWeek": 398,
-    "timeMonth": 569,
-    "timeYear": 699,
+    "uptime": "99.44%",
+    "uptimeDay": "47.68%",
+    "uptimeWeek": "92.53%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.44%",
+    "time": 703,
+    "timeDay": 738,
+    "timeWeek": 435,
+    "timeMonth": 589,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2021-04-27": 0
+      "2021-04-28": 57,
+      "2021-04-27": 696
     }
   },
   {
@@ -107,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 135,
-    "timeWeek": 236,
-    "timeMonth": 302,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 443,
+    "timeWeek": 230,
+    "timeMonth": 310,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   }
 ]

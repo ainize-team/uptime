@@ -4,9 +4,9 @@
     "url": "https://ainetwork.ai",
     "icon": "https://favicons.githubusercontent.com/ainetwork.ai",
     "slug": "ai-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1305,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2021-04-28": 0,
       "2021-02-13": 7,
       "2021-01-29": 18
     }
@@ -82,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/afan.ai",
     "slug": "a-fan-jp",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "47.68%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "99.44%",
+    "uptime": "98.96%",
+    "uptimeDay": "2.42%",
+    "uptimeWeek": "86.06%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "98.96%",
     "time": 703,
     "timeDay": 738,
     "timeWeek": 435,
     "timeMonth": 589,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2021-04-28": 57,
+      "2021-04-28": 709,
       "2021-04-27": 696
     }
   },

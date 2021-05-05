@@ -1,7 +1,7 @@
 url: https://usecase-tabtab-ainize-team.endpoint.ainize.ai
-status: down
-code: 503
-responseTime: 941
-lastUpdated: 2021-05-04T23:46:01.038Z
+status: up
+code: 200
+responseTime: 2465
+lastUpdated: 2021-05-05T02:12:00.710Z
 startTime: Fri Apr 23 2021 14:12:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

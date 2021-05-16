@@ -1,7 +1,7 @@
 url: https://kubecon-tabtab-ainize-team.endpoint.ainize.ai
-status: up
-code: 200
-responseTime: 1554
-lastUpdated: 2021-05-15T23:24:53.946Z
+status: down
+code: 503
+responseTime: 831
+lastUpdated: 2021-05-16T22:35:58.018Z
 startTime: Fri Apr 23 2021 14:12:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

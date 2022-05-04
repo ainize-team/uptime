@@ -8,20 +8,19 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 812,
-    "timeDay": 453,
-    "timeWeek": 806,
-    "timeMonth": 948,
-    "timeYear": 762,
+    "time": 822,
+    "timeDay": 5412,
+    "timeWeek": 1473,
+    "timeMonth": 1129,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2022-04-03": 10,
       "2022-03-28": 10,
       "2021-12-15": 26,
       "2021-10-01": 9,
-      "2021-07-07": 11,
-      "2021-05-04": 28
+      "2021-07-07": 11
     }
   },
   {
@@ -36,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 462,
-    "timeDay": 152,
-    "timeWeek": 263,
-    "timeMonth": 282,
+    "timeDay": 157,
+    "timeWeek": 262,
+    "timeMonth": 268,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2022-03-23": 18,
@@ -63,9 +62,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.84%",
     "time": 991,
-    "timeDay": 1061,
-    "timeWeek": 1008,
-    "timeMonth": 986,
+    "timeDay": 957,
+    "timeWeek": 1034,
+    "timeMonth": 989,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2022-04-11": 10,
@@ -110,22 +109,21 @@
     "icon": "https://favicons.githubusercontent.com/afan.ai",
     "slug": "a-fan-jp",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.39%",
     "time": 487,
-    "timeDay": 192,
-    "timeWeek": 335,
-    "timeMonth": 338,
-    "timeYear": 432,
+    "timeDay": 231,
+    "timeWeek": 343,
+    "timeMonth": 320,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2022-02-24": 35,
       "2021-08-14": 9,
       "2021-05-06": 395,
-      "2021-05-05": 1440,
-      "2021-05-04": 1440
+      "2021-05-05": 1440
     }
   },
   {
@@ -140,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 135,
-    "timeWeek": 203,
-    "timeMonth": 199,
+    "timeDay": 124,
+    "timeWeek": 196,
+    "timeMonth": 190,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2022-02-24": 34

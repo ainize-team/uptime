@@ -53,13 +53,13 @@
     "slug": "tab-tab-kube-con",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.79%",
     "time": 972,
-    "timeDay": 756,
-    "timeWeek": 898,
+    "timeDay": 850,
+    "timeWeek": 886,
     "timeMonth": 970,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -153,9 +153,9 @@
     "url": "https://comcom.ai",
     "icon": "https://favicons.githubusercontent.com/comcom.ai",
     "slug": "common-computer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -165,6 +165,7 @@
     "timeMonth": 215,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-02-24": 34
     }
   }

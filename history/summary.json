@@ -62,7 +62,7 @@
     "timeDay": 918,
     "timeWeek": 884,
     "timeMonth": 1046,
-    "timeYear": 969,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2023-02-05": 19,
       "2023-02-02": 27,
@@ -147,9 +147,9 @@
     "url": "https://comcom.ai",
     "icon": "https://icons.duckduckgo.com/ip3/comcom.ai.ico",
     "slug": "common-computer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -159,6 +159,7 @@
     "timeMonth": 220,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2023-02-06": 0,
       "2022-08-24": 201,
       "2022-08-23": 35,
       "2022-08-15": 21,

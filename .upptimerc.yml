@@ -16,6 +16,10 @@ sites:
     url: https://afan.ai/ja
   - name: Common Computer
     url: https://comcom.ai
+  - name: Babyshark Backend
+    url: https://babyshark-backend-integrated-ut3uqabsoq-uc.a.run.app/healthCheck
+  - name: Miniegg-plus Backend
+    url: https://miniegg-plus-backend-ut3uqabsoq-uc.a.run.app/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

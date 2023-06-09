@@ -49,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kubecon-tabtab-ainize-team.endpoint.ainize.ai.ico",
     "slug": "tab-tab-kube-con",
     "status": "down",
-    "uptime": "97.39%",
+    "uptime": "97.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.03%",
-    "uptimeYear": "94.72%",
+    "uptimeMonth": "37.80%",
+    "uptimeYear": "94.62%",
     "time": 1045,
     "timeDay": 929,
     "timeWeek": 932,
     "timeMonth": 1853,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-06-09": 85,
+      "2023-06-09": 622,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -192,9 +192,9 @@
     "url": "https://miniegg-plus-backend-ut3uqabsoq-uc.a.run.app/ping",
     "icon": "https://icons.duckduckgo.com/ip3/miniegg-plus-backend-ut3uqabsoq-uc.a.run.app.ico",
     "slug": "miniegg-plus-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -203,6 +203,8 @@
     "timeWeek": 1143,
     "timeMonth": 646,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   }
 ]

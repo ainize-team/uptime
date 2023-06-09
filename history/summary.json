@@ -52,7 +52,7 @@
     "uptime": "97.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.80%",
+    "uptimeMonth": "37.78%",
     "uptimeYear": "94.62%",
     "time": 1045,
     "timeDay": 929,
@@ -60,7 +60,7 @@
     "timeMonth": 1853,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-06-09": 622,
+      "2023-06-09": 631,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -192,19 +192,19 @@
     "url": "https://miniegg-plus-backend-ut3uqabsoq-uc.a.run.app/ping",
     "icon": "https://icons.duckduckgo.com/ip3/miniegg-plus-backend-ut3uqabsoq-uc.a.run.app.ico",
     "slug": "miniegg-plus-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 97,
-    "timeWeek": 1143,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 618,
+    "timeDay": 102,
+    "timeWeek": 1013,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-06-09": 0
+      "2023-06-09": 9
     }
   }
 ]
